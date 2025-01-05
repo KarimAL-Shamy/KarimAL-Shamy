@@ -32,8 +32,8 @@ Welcome to my corner of the internet! I'm a passionate Computer Engineering stud
 
 ## 🌐 Let's Connect!
 - **[Website](#)**
-- **[GitHub](#)**
-- **[LinkedIn](#)**
+- **[GitHub](#https://github.com/KarimAL-Shamy)**
+- **[LinkedIn](https://www.linkedin.com/in/karim-hassan-ab6860188)**
 
 ## 🎮 Interests
 Game Development, AI, Ethical Hacking, Computer Vision, Cyber Security
