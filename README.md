@@ -31,9 +31,10 @@ Welcome to my corner of the internet! I'm a passionate Computer Engineering stud
 - **B.E. in Computer Engineering** from Memorial University, St. John's, NL
 
 ## 🌐 Let's Connect!
-- **[Website](#)**
-- **[GitHub](#https://github.com/KarimAL-Shamy)**
+- **[Email](mailto:kshassan@mun.ca)**
+- **[Website](https://www.cs.mun.ca/~kshassan)**
 - **[LinkedIn](https://www.linkedin.com/in/karim-hassan-ab6860188)**
+- **[GitHub](https://github.com/KarimAL-Shamy)**
 
 ## 🎮 Interests
 Game Development, AI, Ethical Hacking, Computer Vision, Cyber Security
